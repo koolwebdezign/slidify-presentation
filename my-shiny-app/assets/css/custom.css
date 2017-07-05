@@ -1,0 +1,9 @@
+body {background-color: #900;}
+
+h2 {color: #900 !important;}
+
+em {font-style: italic;}
+
+.title-slide {background-image: url(https://goo.gl/gAeQqj);}
+
+slide#id3 article p {font-size: 16px;}
